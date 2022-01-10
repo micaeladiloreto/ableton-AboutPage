@@ -69,6 +69,7 @@ nav{
     display: flex;
     max-width: 55px;
     max-height: 24.5px;
+    overflow: hidden;
 }
 
 .burger1, .burger2{
