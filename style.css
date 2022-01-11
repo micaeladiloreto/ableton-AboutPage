@@ -74,6 +74,7 @@ nav{
 
 .burger1, .burger2{
     cursor: pointer
+    overflow: hidden;
 }
 
 .burger2{
