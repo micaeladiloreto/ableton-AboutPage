@@ -31,12 +31,14 @@ nav{
     align-items: center;
     min-height: 12vh;
     margin: 0 25px;
+    overflow: hidden;
 }
 
 .nav-links1{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    overflow: hidden;
     /* width: 30%; */
 }
 
@@ -48,6 +50,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    overflow: hidden;
     /* width: 20%; */
 }
 
@@ -70,6 +73,7 @@ nav{
     display: flex;
     max-width: 55px;
     max-height: 24.5px;
+    overflow: hidden;
 }
 
 .burger1, .burger2{
@@ -87,6 +91,7 @@ nav{
     background-color: black;
     margin: 3px;
     transition: all 0.3s ease;
+    overflow: hidden;
 }
 
 .burger2 div{
@@ -95,6 +100,7 @@ nav{
     background-color: black;
     margin: 3px;
     transition: all 0.3s ease;
+    overflow: hidden;
 }
 
 /****************************** nav under top nav ***************************/
