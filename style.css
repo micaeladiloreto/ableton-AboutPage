@@ -22,6 +22,7 @@ li{
 
 nav{
     border-bottom: 1px solid rgba(153, 153, 153, 0.253);
+    overflow: hidden;
 }
 
 .nav-content{
@@ -69,7 +70,6 @@ nav{
     display: flex;
     max-width: 55px;
     max-height: 24.5px;
-    overflow: hidden;
 }
 
 .burger1, .burger2{
